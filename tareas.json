@@ -1,0 +1,27 @@
+[
+    {
+     "titulo": "Practicar JSON",
+     "descripcion": "Hacer los ejercicios de PG",
+     "estado": "terminada"
+    },
+    {
+     "titulo": "Tutorial Multer",
+     "descripcion": "Buscar tutorial de multer",
+     "estado": "en progreso"
+    },
+    {
+     "titulo": "Ir a Farmacity",
+     "descripcion": "Comprar limas de uñas",
+     "estado": "pendiente"
+    },
+    {
+     "titulo": "Tarea 4",
+     "descripcion": "Comprar sanguchitos",
+     "estado": "terminada"
+    },
+    {
+     "titulo": "Tarea pusheada",
+     "descripcion": "Comprar push",
+     "estado": "pendiente"
+    }
+   ]
